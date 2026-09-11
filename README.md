@@ -300,7 +300,7 @@ If you're building something technically ambitious, I'd be happy to connect.
 ### 📫 Find Me
 
 * GitHub: [@GideonStruts](https://github.com/GideonStruts)
-* LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
+* LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/gideonkaruga/)
 * Location: Nairobi, Kenya
 
 ---
